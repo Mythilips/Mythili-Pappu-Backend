@@ -1,4 +1,4 @@
-package org.OverridedMethod;
+package org.Week1.Abstraction.OverridedMethod;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package org.OverloadedMethod;
+package org.Week1.Abstraction.OverloadedMethod;
 
 public class Product {
     private double price;

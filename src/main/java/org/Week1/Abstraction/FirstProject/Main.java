@@ -1,4 +1,4 @@
-package org.FirstProject;
+package org.Week1.Abstraction.FirstProject;
 
 public class Main {
     // Main.java (Example usage)

@@ -1,4 +1,4 @@
-package org.Abstraction;
+package org.Week1.Abstraction;
 
 public class ITDepartment extends Department {
     private int departmentSize;

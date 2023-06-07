@@ -1,9 +1,12 @@
-package org.Day0405;
+package org.Week1.Abstraction.Day0405;
 
 public class Constructor {
      protected int parentVariable;
 
-        public ParentClass(int parentVariable) {
+    public Constructor(int parentVariable) {
+    }
+
+    public void ParentClass(int parentVariable) {
             this.parentVariable = parentVariable;
         }
     }

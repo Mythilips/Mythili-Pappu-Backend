@@ -1,4 +1,4 @@
-package org.OverridedMethod;
+package org.Week1.Abstraction.OverridedMethod;
 
 class Animal {
     public void makeSound() {
