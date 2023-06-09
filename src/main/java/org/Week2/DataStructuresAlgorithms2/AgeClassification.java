@@ -1,4 +1,4 @@
-package org.Week2.Day2;
+package org.Week2.DataStructuresAlgorithms2;
 
 public class AgeClassification {
      public static void classifyAge(int age) {

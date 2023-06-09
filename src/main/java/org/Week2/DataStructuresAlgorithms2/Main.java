@@ -1,4 +1,4 @@
-package org.Week2.Day2;
+package org.Week2.DataStructuresAlgorithms2;
 
 public class Main {
     public static void main(String[] args) {

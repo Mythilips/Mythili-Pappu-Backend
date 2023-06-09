@@ -1,19 +1,16 @@
-package org.Week2.Day3;
+package org.Week2.DataStructuresAlgorithms3;
 import java.util.Arrays;
 
 public class ArrayRotation {
 
         public static void rotateArrayLeft(int[] arr, int x) {
             int length = arr.length;
-            x = x % length; // Normalize x if it exceeds array length
+            x = x % length;
 
-            // Reverse the elements from 0 to x-1
             reverseArray(arr, 0, x - 1);
 
-            // Reverse the elements from x to length-1
             reverseArray(arr, x, length - 1);
 
-            // Reverse the entire array
             reverseArray(arr, 0, length - 1);
         }
 

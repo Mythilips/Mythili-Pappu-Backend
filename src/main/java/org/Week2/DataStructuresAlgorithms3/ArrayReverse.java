@@ -1,4 +1,4 @@
-package org.Week2.Day3;
+package org.Week2.DataStructuresAlgorithms3;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package org.Week2.Day1;
+package org.Week2.DataStructuresAlgorithms1;
 
 public class NumberReversal {
     public static int reverseNumber(int number) {
